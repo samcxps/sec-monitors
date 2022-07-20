@@ -1,3 +1,3 @@
-# monitors
+# SEC Monitors
 
-Monitors
+Customizable monitors for [SEC](https://sec.gov) data.
