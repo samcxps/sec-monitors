@@ -1,7 +1,5 @@
 .nyc_output
 build
-package-lock.json
-yarn.lock
 
 # Logs
 logs
