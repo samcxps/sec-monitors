@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-import { container } from './log';
+import { container } from '../log';
 
 export type WebhookData = {
   readonly embeds: readonly unknown[];

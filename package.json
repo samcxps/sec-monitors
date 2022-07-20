@@ -44,11 +44,9 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
-    "cron": "^2.1.0",
     "dotenv": "^16.0.1",
     "mongodb": "^4.8.0",
     "node-schedule": "^2.1.0",
-    "sqlite3": "^5.0.9",
     "winston": "^3.8.1"
   },
   "devDependencies": {
@@ -57,12 +55,10 @@
     "@types/axios": "^0.14.0",
     "@types/mongodb": "^4.0.7",
     "@types/node-schedule": "^2.1.0",
-    "@types/sqlite3": "^3.1.8",
     "@typescript-eslint/eslint-plugin": "^4.0.1",
     "@typescript-eslint/parser": "^4.0.1",
     "ava": "^3.12.1",
     "codecov": "^3.5.0",
-    "cross-env": "^7.0.3",
     "cspell": "^6.4.0",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^7.8.0",
